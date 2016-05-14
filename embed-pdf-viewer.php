@@ -96,7 +96,7 @@ class Embed_PDF_Viewer {
 		}
 
 		$default = array(
-			'height' => 500,
+			'height' => 900,
 			'width'  => 800,
 			'title'  => $post->post_title,
 		);
